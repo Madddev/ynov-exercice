@@ -29,9 +29,9 @@ $arraofNamesImages = array(
     'people_020.jpg'
 );
 
-foreach ($arraofNamesImages as $namesImage){
+foreach ($arraofNamesImages as $imageName){
 
-    echo "<img src="."images/".$namesImage." height = 200px, weight = 200px >"."<br>"."<br>";
+    echo "<img src="."images/".$imageName." height = 200px, weight = 200px >"."<br>"."<br>";
 
 }
 
