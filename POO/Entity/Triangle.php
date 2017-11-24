@@ -6,7 +6,7 @@
  * Time: 13:51
  */
 
-class Triangle
+abstract class  Triangle
 {
 
     //longueur du traingle
@@ -69,34 +69,6 @@ class Triangle
         $this->bc = $bc;
     }
 
-    public function isIsocele(){
+    abstract protected function jesuis();
 
-        if($this->ab === $this->ac || $this->ab === $this->bc || $this->bc ===$this->ac )
-            return true;
-
-        return false;
-    }
-
-
-    public function isEquilateral(){
-        if(($this->ab === $this->ac && $this->ab === $this->bc) )
-            return true;
-
-        return false;
-    }
-
-    public function isRectangle(){
-        $racineABcarre = sqrt((pow(2,$this->ac)+pow(2,$this->ab)));
-        if ($racineABcarre === $this->bc)
-            return true;
-
-        return false;
-    }
-
-    public function isScalene(){
-        if($this->ab != $this->ac && $this->ab != $this->bc)
-            return true;
-
-        return false;
-    }
 }

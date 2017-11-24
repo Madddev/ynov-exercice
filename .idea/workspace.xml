@@ -1,7 +1,152 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="399f1455-1896-48f9-a0d2-e8c25d36e622" name="Default" comment="" />
+    <list default="true" id="399f1455-1896-48f9-a0d2-e8c25d36e622" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTP/exercice3/images/Image1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTP/exercice3/images/Image10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTP/exercice3/images/Image11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTP/exercice3/images/Image12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTP/exercice3/images/Image13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTP/exercice3/images/Image14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTP/exercice3/images/Image15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTP/exercice3/images/Image16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTP/exercice3/images/Image17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTP/exercice3/images/Image18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTP/exercice3/images/Image19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTP/exercice3/images/Image2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTP/exercice3/images/Image3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTP/exercice3/images/Image4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTP/exercice3/images/Image5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTP/exercice3/images/Image6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTP/exercice3/images/Image7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTP/exercice3/images/Image8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTP/exercice3/images/Image9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/resources/Adobe/CMYK/CoatedFOGRA27.icc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/resources/Adobe/CMYK/CoatedFOGRA39.icc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/resources/Adobe/CMYK/CoatedGRACoL2006.icc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/resources/Adobe/CMYK/JapanColor2001Coated.icc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/resources/Adobe/CMYK/JapanColor2001Uncoated.icc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/resources/Adobe/CMYK/JapanColor2002Newspaper.icc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/resources/Adobe/CMYK/JapanColor2003WebCoated.icc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/resources/Adobe/CMYK/JapanWebCoated.icc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/resources/Adobe/CMYK/USWebCoatedSWOP.icc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/resources/Adobe/CMYK/USWebUncoated.icc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/resources/Adobe/CMYK/UncoatedFOGRA29.icc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/resources/Adobe/CMYK/WebCoatedFOGRA28.icc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/resources/Adobe/CMYK/WebCoatedSWOP2006Grade3.icc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/resources/Adobe/CMYK/WebCoatedSWOP2006Grade5.icc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/resources/Adobe/Color Profile Bundling License_10.15.08.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/resources/Adobe/Profile Information.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/resources/Adobe/RGB/AdobeRGB1998.icc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/resources/Adobe/RGB/AppleRGB.icc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/resources/Adobe/RGB/ColorMatchRGB.icc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/resources/Adobe/RGB/PAL_SECAM.icc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/resources/Adobe/RGB/SMPTE-C.icc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/resources/Adobe/RGB/VideoHD.icc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/resources/Adobe/RGB/VideoNTSC.icc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/resources/Adobe/RGB/VideoPAL.icc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/resources/Adobe/Trademark Information.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/resources/color.org/sRGB_IEC61966-2-1_black_scaled.icc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/resources/color.org/sRGB_IEC61966-2-1_no_black_scaling.icc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/resources/colormanagement.org/ISOcoated_v2_grey1c_bas.ICC" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/POO/Entity/Equilateral.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/POO/Entity/Isocele.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/POO/Entity/Rectangle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/POO/Entity/Scalene.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/.travis/gmagick.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/.travis/imagick.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Draw/DrawerInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Effects/EffectsInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Exception/Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Exception/InvalidArgumentException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Exception/NotSupportedException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Exception/OutOfBoundsException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Exception/RuntimeException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Filter/Advanced/Border.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Filter/Advanced/Canvas.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Filter/Advanced/Grayscale.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Filter/Advanced/OnPixelBased.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Filter/Advanced/RelativeResize.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Filter/Basic/ApplyMask.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Filter/Basic/Autorotate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Filter/Basic/Copy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Filter/Basic/Crop.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Filter/Basic/Fill.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Filter/Basic/FlipHorizontally.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Filter/Basic/FlipVertically.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Filter/Basic/Paste.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Filter/Basic/Resize.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Filter/Basic/Rotate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Filter/Basic/Save.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Filter/Basic/Show.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Filter/Basic/Strip.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Filter/Basic/Thumbnail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Filter/Basic/WebOptimization.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Filter/FilterInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Filter/ImagineAware.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Filter/Transformation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Gd/Drawer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Gd/Effects.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Gd/Font.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Gd/Image.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Gd/Imagine.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Gd/Layers.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Gmagick/Drawer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Gmagick/Effects.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Gmagick/Font.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Gmagick/Image.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Gmagick/Imagine.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Gmagick/Layers.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Image/AbstractFont.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Image/AbstractImage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Image/AbstractImagine.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Image/AbstractLayers.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Image/Box.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Image/BoxInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Image/Fill/FillInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Image/Fill/Gradient/Horizontal.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Image/Fill/Gradient/Linear.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Image/Fill/Gradient/Vertical.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Image/FontInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Image/Histogram/Bucket.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Image/Histogram/Range.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Image/ImageInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Image/ImagineInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Image/LayersInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Image/ManipulatorInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Image/Metadata/AbstractMetadataReader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Image/Metadata/DefaultMetadataReader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Image/Metadata/ExifMetadataReader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Image/Metadata/MetadataBag.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Image/Metadata/MetadataReaderInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Image/Palette/CMYK.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Image/Palette/Color/CMYK.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Image/Palette/Color/ColorInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Image/Palette/Color/Gray.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Image/Palette/Color/RGB.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Image/Palette/ColorParser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Image/Palette/Grayscale.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Image/Palette/PaletteInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Image/Palette/RGB.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Image/Point.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Image/Point/Center.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Image/PointInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Image/Profile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Image/ProfileInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Imagick/Drawer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Imagick/Effects.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Imagick/Font.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Imagick/Image.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Imagick/Imagine.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Imagick/Layers.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/POO/Entity/Triangle.php" afterPath="$PROJECT_DIR$/POO/Entity/Triangle.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/POO/index.php" afterPath="$PROJECT_DIR$/POO/index.php" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,105 +155,128 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HTTP/exercice1-partie1/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HTTP/exercice1-partie3/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HTTP/exercice2/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="redirect.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HTTP/exercice3/redirect.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="composer.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/composer.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="58">
-              <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="autoload.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/autoload.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="composer.lock" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/composer.lock">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="46" column="64" lean-forward="true" selection-start-line="46" selection-start-column="64" selection-end-line="46" selection-end-column="64" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HTTP/exercice3/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="19" column="14" lean-forward="false" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="people_019.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HTTP/exercice1-partie3/images/people_019.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.7841667">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/HTTP/exercice3/index.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="316">
+                  <caret line="45" column="32" lean-forward="false" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
+                  <folding>
+                    <element signature="e#399#422#0#PHP" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/POO/index.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="180">
+                  <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Triangle.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/POO/Entity/Triangle.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="320">
+                  <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Rectangle.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/POO/Entity/Rectangle.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="140">
+                  <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Isocele.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/POO/Entity/Isocele.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="300">
+                  <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Equilateral.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/POO/Entity/Equilateral.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="160">
+                  <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Scalene.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/POO/Entity/Scalene.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="160">
+                  <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Resize.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Filter/Basic/Resize.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="191">
+                  <caret line="34" column="41" lean-forward="false" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="BoxInterface.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Image/BoxInterface.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="180">
+                  <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Image.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Gd/Image.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1683">
+                  <caret line="162" column="26" lean-forward="false" selection-start-line="162" selection-start-column="26" selection-end-line="162" selection-end-column="26" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="Isocele.php" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/POO/Entity/Isocele.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="260">
+                  <caret line="13" column="87" lean-forward="false" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="87" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -116,6 +284,11 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>vendor</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -134,6 +307,13 @@
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/composer.lock" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/HTTP/exercice3/index.php" />
+        <option value="$PROJECT_DIR$/POO/Entity/Triangle.php" />
+        <option value="$PROJECT_DIR$/POO/Entity/Equilateral.php" />
+        <option value="$PROJECT_DIR$/POO/Entity/Rectangle.php" />
+        <option value="$PROJECT_DIR$/POO/Entity/Scalene.php" />
+        <option value="$PROJECT_DIR$/POO/Entity/Isocele.php" />
+        <option value="$PROJECT_DIR$/POO/index.php" />
       </list>
     </option>
   </component>
@@ -177,31 +357,18 @@
             <path>
               <item name="ynov-exercice" type="b2602c69:ProjectViewProjectNode" />
               <item name="ynov-exercice" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="HTTP" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="POO" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="ynov-exercice" type="b2602c69:ProjectViewProjectNode" />
               <item name="ynov-exercice" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="HTTP" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="exercice1-partie1" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="POO" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Entity" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="ynov-exercice" type="b2602c69:ProjectViewProjectNode" />
               <item name="ynov-exercice" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="HTTP" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="exercice1-partie3" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="ynov-exercice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ynov-exercice" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="HTTP" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="exercice2" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="ynov-exercice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ynov-exercice" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="HTTP" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="exercice3" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -248,7 +415,7 @@
       <option name="presentableId" value="Default" />
       <updated>1511442544888</updated>
       <workItem from="1511442547198" duration="5425000" />
-      <workItem from="1511448649405" duration="4244000" />
+      <workItem from="1511448649405" duration="15202000" />
     </task>
     <task id="LOCAL-00001" summary="#index php">
       <created>1511442812168</created>
@@ -320,11 +487,32 @@
       <option name="project" value="LOCAL" />
       <updated>1511515085847</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="#add librairies imagine php manipulation image">
+      <created>1511521866336</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1511521866336</updated>
+    </task>
+    <task id="LOCAL-00012" summary="#fix size">
+      <created>1511527701756</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1511527701756</updated>
+    </task>
+    <task id="LOCAL-00013" summary="#add triangle Class">
+      <created>1511529471832</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1511529471832</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9669000" />
+    <option name="totallyTimeSpent" value="20627000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -338,7 +526,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46526867" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21625164" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -367,7 +555,10 @@
     <MESSAGE value="#EXERCICE 2" />
     <MESSAGE value="#add redirect" />
     <MESSAGE value="#add composer.json and composer.lock" />
-    <option name="LAST_COMMIT_MESSAGE" value="#add composer.json and composer.lock" />
+    <MESSAGE value="#add librairies imagine php manipulation image" />
+    <MESSAGE value="#fix size" />
+    <MESSAGE value="#add triangle Class" />
+    <option name="LAST_COMMIT_MESSAGE" value="#add triangle Class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -481,14 +672,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTTP/exercice3/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="19" column="14" lean-forward="false" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HTTP/exercice3/redirect.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
@@ -497,34 +680,188 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/autoload.php">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="159">
+          <caret line="44" column="20" lean-forward="false" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
+    <entry file="file://$PROJECT_DIR$/vendor/psr/log/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        <state relative-caret-position="340">
+          <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Imagick/Imagine.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="48" column="20" lean-forward="false" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Gd/Imagine.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="39" column="41" lean-forward="false" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="53" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/composer.lock">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="46" column="64" lean-forward="true" selection-start-line="46" selection-start-column="64" selection-end-line="46" selection-end-column="64" />
+        <state relative-caret-position="-1927">
+          <caret line="82" column="33" lean-forward="false" selection-start-line="82" selection-start-column="33" selection-end-line="82" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+        <state relative-caret-position="220">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Image/Fill/FillInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="10" lean-forward="false" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTTP/exercice3/images/image.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTTP/exercice3/images/Image1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTTP/exercice3/images/Image2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTTP/exercice3/images/Image3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTTP/exercice3/images/Image4.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTTP/exercice3/images/Image7.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTTP/exercice3/images/Image8.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTTP/exercice3/images/Image9.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Filter/Basic/Resize.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="34" column="41" lean-forward="false" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Gd/Image.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1683">
+          <caret line="162" column="26" lean-forward="false" selection-start-line="162" selection-start-column="26" selection-end-line="162" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/imagine/imagine/lib/Imagine/Image/BoxInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTTP/exercice3/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="45" column="32" lean-forward="false" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
+          <folding>
+            <element signature="e#399#422#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POO/Entity/Triangle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POO/Entity/Rectangle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POO/Entity/Scalene.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POO/Entity/Equilateral.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POO/Entity/Isocele.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POO/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
