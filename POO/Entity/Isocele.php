@@ -6,7 +6,9 @@
  * Time: 14:25
  */
 require_once 'Triangle.php';
-class Isocele extends Triangle
+require_once 'Perimetre.php';
+
+class Isocele extends Triangle implements Perimetre
 {
 
     public function jesuis()
@@ -15,5 +17,10 @@ class Isocele extends Triangle
             return 'je suis un triangle Isocele';
 
         return 'je ne suis pas Isocele' ;
+    }
+
+    public function perimetre(int $ab, int $ac, int $bc):int
+    {
+            //calcul perimetre
     }
 }

@@ -6,7 +6,10 @@
  * Time: 14:24
  */
 require_once 'Triangle.php';
-class Rectangle extends Triangle
+require_once 'Perimetre.php';
+
+
+class Rectangle extends Triangle implements Perimetre
 {
     public function jesuis()
     {
@@ -15,5 +18,11 @@ class Rectangle extends Triangle
             return 'je suis un triangle rectangle';
 
         return 'je ne suis pas un triangle rectangle';
+    }
+
+
+    public function perimetre(int $ab, int $ac, int $bc):int
+    {
+
     }
 }

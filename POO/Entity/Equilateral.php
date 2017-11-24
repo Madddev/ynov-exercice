@@ -7,8 +7,9 @@
  */
 
 require_once 'Triangle.php';
+require_once 'Perimetre.php';
 
-class Equilateral extends Triangle
+class Equilateral extends Triangle implements Perimetre
 {
 
 
@@ -20,4 +21,12 @@ class Equilateral extends Triangle
 
         return 'je ne suis pas un equilateral';
     }
+
+
+    public function perimetre(int $ab, int $ac, int $bc):int
+    {
+
+    }
+
+
 }

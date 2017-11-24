@@ -22,4 +22,4 @@ $triangleRect =  new Scalene(5,5,6);
 echo $triangleEqui->jesuis() ."\n";
 echo $triangleIso->jesuis() ."\n";
 echo $triangleScal->jesuis() ."\n";
-echo $triangleRect->jesuis() ."\n";
+echo $triangleRect->jesuis() ."\nl";
