@@ -44,9 +44,7 @@ foreach ($arraofNamesImages as $item) {
         ->save('./images/'.$item .".jpg");
 }
 foreach ($arraofNamesImages as $nameImage){
-
     echo "<img src=./images/".$nameImage.".jpg"." style='width:50%;max-width:400px;box-shadow:0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19) !important;' >"."<br>"."<br>";
-
 }
 
 
