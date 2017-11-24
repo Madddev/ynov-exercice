@@ -32,7 +32,7 @@ $arraofNamesImages = array(
 
 use Imagine\Gd\Imagine;
 use Imagine\Image\Box;
-use Imagine\Image\Point;
+
 require_once '../../vendor/autoload.php';
 
 
@@ -40,6 +40,7 @@ $imagine = new Imagine();
 
 foreach ($arraofNamesImages as $item) {
     $image = $imagine->open('https://placem.at/people?txt='.$item)
+        ->resize(new Box(500, 500))
         ->save('./images/'.$item .".jpg");
 }
 foreach ($arraofNamesImages as $nameImage){
@@ -48,13 +49,6 @@ foreach ($arraofNamesImages as $nameImage){
 
 }
 
-
-
-//foreach ($arraofNamesImages as $imageName){
-//
-//    echo "<img src="."https://placem.at/people?txt=".$imageName." style='width:50%;max-width:200px;box-shadow:0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19) !important;' >"."<br>"."<br>";
-//
-//}
 
 
 ?>
